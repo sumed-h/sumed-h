@@ -1,4 +1,4 @@
-                                                         ### Hi there, I'm Sumedh Bhardwaj 👋
+                                                             Hi there, I'm Sumedh Bhardwaj 👋
 
 <!--
 **sumed-h/sumed-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
