@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 #### Github Stats
 - <img src="https://github-readme-stats.vercel.app/api?username={sumed-h}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumed-h)](https://github.com/sumed-h/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumed-h&layout=compact)](https://github.com/sumed-h/github-readme-stats)
 ### Top Languages
  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumed-h&layout=compact)
