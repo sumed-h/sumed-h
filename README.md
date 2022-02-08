@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Contact
-- [Email](sumedhubhardwaj@yahoo.com)
+- [Email](mailto:sumedhubhardwaj@yahoo.com)
 - [LinkedIn](https://www.linkedin.com/in/sumedh-bhardwaj-932767202/)
 ### Interests:
 Data analysis/science, machine learning (ML), music, sports, travel
