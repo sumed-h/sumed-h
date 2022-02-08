@@ -1,4 +1,4 @@
-Hi there, I'm Sumedh Bhardwaj 👋
+## Hi there, I'm Sumedh Bhardwaj 👋
 Data Analyst | Data Scientist
 
 <!--
