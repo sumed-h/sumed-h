@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Contact
+## Contact
 - [Email](mailto:sumedhubhardwaj@yahoo.com)
 - [LinkedIn](https://www.linkedin.com/in/sumedh-bhardwaj-932767202/)
-### Interests:
+## Interests:
 Data analysis/science, machine learning (ML), music, sports, travel
-#### Github Stats
+### Github Stats
  # ![Overall Stats](https://github-readme-stats.vercel.app/api?username=sumed-h&count_private=true&show_icons=true&hide=contribs&theme=vision-friendly-dark)
  # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumed-h&layout=compact)
  # ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sumed-h.sumed-h)
