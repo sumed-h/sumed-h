@@ -1,4 +1,4 @@
-                                                             Hi there, I'm Sumedh Bhardwaj 👋
+Hi there, I'm Sumedh Bhardwaj 👋
 
 <!--
 **sumed-h/sumed-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +24,4 @@ Data analysis/science, machine learning (ML), music, sports, travel
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumed-h&layout=compact)](https://github.com/sumed-h/github-readme-stats)
 ### Top Languages
  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumed-h&layout=compact)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sumed-h.sumed-h)
