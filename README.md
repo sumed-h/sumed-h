@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sumedhubhardwaj@yahoo.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1cS7n5xneDANrhF3aSksMYBaa2eFwKT3Ez6vbufDN7Vg/edit?usp=sharing][Sumedh's Resume](https://docs.google.com/document/d/1cS7n5xneDANrhF3aSksMYBaa2eFwKT3Ez6vbufDN7Vg/edit?usp=sharing)
+- 📄 Know about my experiences [Sumedh's Resume](https://docs.google.com/document/d/1cS7n5xneDANrhF3aSksMYBaa2eFwKT3Ez6vbufDN7Vg/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
